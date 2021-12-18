@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6467f998-ff3f-4f0c-b86f-a552143d709a" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/4.复合类型/P.复合类型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/4.复合类型/使用new来分配内存.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/4.复合类型/使用new来创建动态数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/4.复合类型/指针.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/4.复合类型/指针和字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/5.循环/P.循环.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/5.循环/for 循环.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/2.00/Hello World_cout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/2.00/carrots_cin.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/2.00/convert_return.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/2.00/ourfunc_void.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/2.00/sqrt_double.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.1/bondini.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.1/chartype_char.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.1/exceed_define.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.1/hexoct.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.1/hexoct_cout_ODH.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.1/limits.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.1/morechar_cout.put.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.3/floatnum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.3/fltadd.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.4/arith.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.4/divide.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.4/init.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.4/modulus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/3.00/3.4/typecast.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.1/arrayone.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.2/instr1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.2/instr2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.2/instr3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.2/numstr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.2/strings.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.3/strtype1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.3/strtype2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.3/strtype3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.3/strtype4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.4/arrstruc.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.4/assgn_st.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.4/structur.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.5/union.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.7/address.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.7/arraynew.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.7/init_ptr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.7/pointer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.7/use_new.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/4.00/4.8/addpntrs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/bigstep.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/block.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/express.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/forloop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/formore.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/forstr1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/forstr2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/num_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Basic/5.00/5.1/plus_one.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/12312312" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/4.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/CK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/CK2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/addpntrs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/address" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/arraynew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/assgn_st" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/express" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/forloop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/formore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/helloworld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/init_ptr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/pointer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/pow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/strtype1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/strtype2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/strtype3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/strtype4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project Source/Debug/use_new" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CPR _Project/CPR Project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDEA 使用方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JVL Project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 基本程序设计结构/P.基本结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 基本程序设计结构/基本结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/LS Project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/Linux 命令行/P.Linux 命令行.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/Linux 命令行/文件处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/Linux 命令行/系统管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/基础 Shell 编程/P.基础 Shell 编程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/基础 Shell 编程/初识脚本编程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/基础 Shell 编程/脚本结构化命令.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LSP_Project/系统安装.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/Basic/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/Basic/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/Basic/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/Basic/字符 编码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/Basic/定义函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/Basic/数据 变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/Basic/调用函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/CK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/输入输出/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project Source/输入输出/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/PYL Project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/Dict和Set.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/P.Python 基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/list和tuple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/字符串和编码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/循环.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/未命名数据类型和变量.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/条件判断.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/Python 基础/输入输出.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/函数/P.函数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/函数/定义函数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYL_Project/函数/调用函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPL Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/../CPL Project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/4.复合类型/P.复合类型.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/4.复合类型/使用new来分配内存.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/4.复合类型/使用new来创建动态数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/4.复合类型/指针.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/4.复合类型/指针和字符串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/5.循环/P.循环.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/5.循环/for 循环.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/2.00/Hello World_cout.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/2.00/carrots_cin.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/2.00/convert_return.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/2.00/ourfunc_void.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/2.00/sqrt_double.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.1/bondini.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.1/chartype_char.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.1/exceed_define.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.1/hexoct.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.1/hexoct_cout_ODH.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.1/limits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.1/morechar_cout.put.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.3/floatnum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.3/fltadd.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.4/arith.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.4/divide.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.4/init.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.4/modulus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/3.00/3.4/typecast.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.1/arrayone.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.2/instr1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.2/instr2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.2/instr3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.2/numstr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.2/strings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.3/strtype1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.3/strtype2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.3/strtype3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.3/strtype4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.4/arrstruc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.4/assgn_st.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.4/structur.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.5/union.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.7/address.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.7/arraynew.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.7/init_ptr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.7/pointer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.7/use_new.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/4.00/4.8/addpntrs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/bigstep.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/block.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/express.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/forloop.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/formore.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/forstr1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/forstr2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/num_test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Basic/5.00/5.1/plus_one.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/12312312" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/4.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/CK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/CK2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/addpntrs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/address" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/arraynew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/assgn_st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/express" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/forloop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/formore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/helloworld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/init_ptr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/pointer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/pow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/strtype1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/strtype2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/strtype3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/strtype4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project Source/Debug/use_new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPR Project/CPR Project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/LS Project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/Linux 命令行/P.Linux 命令行.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/Linux 命令行/文件处理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/Linux 命令行/系统管理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/基础 Shell 编程/P.基础 Shell 编程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/基础 Shell 编程/初识脚本编程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/基础 Shell 编程/脚本结构化命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSP Project/系统安装.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/Basic/for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/Basic/if_else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/Basic/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/Basic/字符 编码.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/Basic/定义函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/Basic/数据 变量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/Basic/调用函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/CK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/输入输出/input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project Source/输入输出/print.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/PYL Project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/Dict和Set.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/P.Python 基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/list和tuple.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/字符串和编码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/循环.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/未命名数据类型和变量.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/条件判断.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/Python 基础/输入输出.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/函数/P.函数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/函数/定义函数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PYL Project/函数/调用函数.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="22BDdGDe3jCMDwP9R5OOEs6HmJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="应用程序.FirstSample">
+    <configuration name="FirstSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstSample" />
+      <module name="JAL_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="JAL_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.FirstSample" />
+        <item itemvalue="应用程序.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6467f998-ff3f-4f0c-b86f-a552143d709a" name="变更" comment="" />
+      <created>1639302175218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639302175218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
