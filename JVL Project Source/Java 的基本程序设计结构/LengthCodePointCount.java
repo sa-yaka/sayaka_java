@@ -31,6 +31,5 @@ public class LengthCodePointCount {
         cp = greeting.codePointAt(index);
         System.out.println("\nThe last code point is " + Integer.toHexString(cp));       //码点 一般为 16 进制数
     }
-
 }
 
