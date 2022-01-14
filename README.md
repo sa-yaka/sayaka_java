@@ -5,7 +5,6 @@
 - **代码环境:** Archlinux
 - **JDK:** JDK 11
 - **项目地址:** [JVL_Project](https://github.com/Sni-anr/JVL_Project)
-- **联系方式：** [Telegram](https://t.me/ANRcks)
 ---
 # 基本结构                
 ---
