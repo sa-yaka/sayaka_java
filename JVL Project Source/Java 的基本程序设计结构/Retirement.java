@@ -13,6 +13,8 @@ public class Retirement {
         System.out.println("Interest rate in %:");
         double interestRate = in.nextDouble();
 
+        in.close();
+
         double balance = 0;
         int years = 0;
 

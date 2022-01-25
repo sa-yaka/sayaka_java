@@ -10,6 +10,8 @@ public class LotteryOdds {
         System.out.println("What is the height number you can draw ?");
         int n = in.nextInt();
 
+        in.close();
+
         int lotteryOdds = 1;
         for (int i = 1; i <= k; i++)
             lotteryOdds = lotteryOdds * (n - i + 1) / i;
