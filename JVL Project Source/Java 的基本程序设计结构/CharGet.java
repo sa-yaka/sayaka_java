@@ -6,5 +6,6 @@ public class CharGet {
         // 利用charAt(n);方法,这个方法可以返回字符串第n个位置的字符。
         char character = in.next().charAt(0);
         System.out.println((int) character);
+        in.close();
     }
 }

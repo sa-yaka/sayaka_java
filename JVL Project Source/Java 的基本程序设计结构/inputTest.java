@@ -9,7 +9,7 @@ public class inputTest {
 
         System.out.print("Enter your age : ");
         int age = in.nextInt();
-
+        in.close();
         System.out.println("Hello, " + name + ". Next year, you'll be " + (age + 1));
     }
 }

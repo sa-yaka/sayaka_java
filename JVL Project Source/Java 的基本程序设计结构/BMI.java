@@ -9,8 +9,9 @@ public class BMI {
         System.out.print("Enter your weight(kg): ");
         float weight = in.nextFloat();
 
+        in.close();
+
         float BMI = weight / (height * height);
         System.out.printf("Your BMI is :%.2f", BMI);
     }
 }
-
