@@ -36,11 +36,10 @@ public class CalendarTest {
 
         d.set(Calendar.DAY_OF_MONTH, 1);
         do {
-            // print day
+
             int day = d.get(Calendar.DAY_OF_MONTH);
             System.out.printf("%3d", day);
 
-            // mark current day with *
             if (day == today)
                 System.out.print("*");
             else
