@@ -16,7 +16,6 @@ public class CalendarTest {
 
         int firstDayOfWeek = d.getFirstDayOfWeek();
 
-        // determine the required indentation for the first line
         int indent = 0;
         while (weekday != firstDayOfWeek) {
             indent++;
