@@ -1141,7 +1141,9 @@ public class CompoundInterest {
 }
 ```
 
+# 对象与类
 
+## 使用与定义类
 ```java
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -1177,3 +1179,101 @@ public class CalendarTest {
     }
 }
 ```
+## 用户自定义类
+
+```java
+import java.time.LocalDate;
+
+public class EmployeeTest {
+    public static void main(String[] args) {
+        // 构建一个数组，并填入三个对象
+        Employee[] staff = new Employee[3];
+
+        staff[0] = new Employee("Carl Cracker", 75000, 1987, 12, 15);
+        staff[1] = new Employee("Harry Hacker", 50000, 1989, 10, 1);
+        staff[2] = new Employee("Tony Tester", 40000, 1990, 3, 15);
+
+        // 使用 employee 的 raiseSalary() 使每个员工的工资增加 5%
+        for (Employee e : staff){
+            e.raiseSalary(5);
+        }
+
+        //  遍历 staff 打印员工信息
+        for (Employee e : staff){
+            System.out.println("name= " + e.getName() + ",salary= " + e.getSalary() 
+                    + ", hireDay= " + e.getHireDay());
+        }
+    }
+}
+
+
+class Employee{
+    private String name;
+    private double salary;
+    private LocalDate hireDay;
+
+    //构建 Employee 数组
+    public Employee(String n, double s, int year, int month, int day){
+        name = n;
+        salary = s;
+        hireDay = LocalDate.of(year, month, day);
+    }
+
+    public String getName(){
+        return name;
+    }
+
+    public double getSalary(){
+        return salary;
+    }
+
+    public LocalDate getHireDay(){
+        return hireDay;
+    }
+
+    public void raiseSalary(double byPercent){
+        double raise = salary * byPercent / 100;
+        salary += raise;
+    }
+}
+```
+
+关键字 `public`意味着任何方法都可以调用这些方法，而关键字 `private`可以确保只有 Employee 类可以访问这些字段。
+
+
+下面是 Employee 类的构造器：
+
+```java
+    public Employee(String n, double s, int year, int month, int day){
+        name = n;
+        salary = s;
+        hireDay = LocalDate.of(year, month, day);
+    }
+```
+
+可以发现，构造器一类名相同。在构造 Employee 类的对象时，构造器就会运行，从而将实例字段初始化为所需要的初始值。
+
+例如使用以下代码创建 Employee 类的实例时：
+
+```java
+new Employee("Carl Cracker", 75000, 1987, 12, 15);
+```
+将会把实例字段设置为：
+
+```java
+name = "Carl Cracker";
+salary = 75000;
+hireDay = LocalDate.of(1987, 12, 15);
+```
+
+构造器需要结合 new 运算符来调用，不能对一个已经存在的对象使用构造器来重设字段
+
+需要注意的是：
+
+- 构造器与类同名。
+- 每个类可以有一个以上的构造器。
+- 构造器可以有0个，1个，或者多个参数。
+- 构造器没有返回值
+- 构造器总是与 new 操作符一起使用。
+
+### var 声明局部变量
