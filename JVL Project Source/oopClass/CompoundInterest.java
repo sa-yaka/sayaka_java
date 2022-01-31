@@ -1,7 +1,3 @@
-import java.util.Date;
-
-import javax.xml.crypto.Data;
-
 public class CompoundInterest {
     public static void main(String[] args) {
         final double STARTRATE = 10;
