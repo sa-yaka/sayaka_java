@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "oopClass",
         "basic",
-        "src",
-        "oopClass"
+        "src"
     ]
 }
