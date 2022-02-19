@@ -1,3 +1,5 @@
+package CompoundInterest;
+
 public class CompoundInterest {
     public static void main(String[] args) {
         final double STARTRATE = 10;

@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "oopClass",
         "basic",
-        "src"
+        "src",
+        "oopClass/PackageTest"
     ]
 }

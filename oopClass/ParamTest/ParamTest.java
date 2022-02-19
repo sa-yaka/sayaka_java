@@ -1,3 +1,5 @@
+package ParamTest;
+
 public class ParamTest {
     public static void main(String[] args) {
         System.out.println("\nTesting tripleValue");

@@ -1,3 +1,5 @@
+package ConstructorTest;
+
 import java.util.Random;
 
 public class ConstructorTest {
