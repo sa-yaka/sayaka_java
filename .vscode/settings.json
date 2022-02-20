@@ -3,6 +3,7 @@
         "oopClass",
         "basic",
         "src",
-        "oopClass/PackageTest"
+        "oopClass/PackageTest",
+        "inheritance"
     ]
 }
