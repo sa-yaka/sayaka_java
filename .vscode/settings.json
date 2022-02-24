@@ -4,6 +4,7 @@
         "basic",
         "src",
         "oopClass/PackageTest",
-        "inheritance"
+        "inheritance",
+        "LintCode"
     ]
 }
