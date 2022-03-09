@@ -5,6 +5,7 @@
         "src",
         "oopClass/PackageTest",
         "inheritance",
-        "LintCode"
+        "LintCode",
+        "InterfacesLambda"
     ]
 }
