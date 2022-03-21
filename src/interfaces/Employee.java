@@ -22,7 +22,7 @@ public class Employee implements Comparable<Employee> {
         salary += raise;
     }
 
-    public int compareTo(Employee other){
+    public int compareTo(Employee other) {
         return Double.compare(salary, other.salary);
     }
 }
