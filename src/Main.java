@@ -14,12 +14,14 @@ public class Main {
             i++;
         }
         out.close();
-//
-//        Scanner in = new Scanner(Path.of("test.txt"), StandardCharsets.UTF_8);
-//        while (in.hasNext()) {
-//            String line = in.nextLine();
-//            System.out.println(line);
-//
-//        }
+
+/*
+        Scanner in = new Scanner(Path.of("test.txt"), StandardCharsets.UTF_8);
+        while (in.hasNext()) {
+            String line = in.nextLine();
+            System.out.println(line);
+
+        }
+*/
     }
 }
